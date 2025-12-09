@@ -266,6 +266,7 @@
                     <li><a href="#part3">Part 3: Working with Agent Boundaries</a></li>
                     <li><a href="#part4">Part 4: Testing Your Implementation</a></li>
                     <li><a href="#part5">Part 5: Agent Boundary Testing</a></li>
+                    <li><a href="#trbl">Troubleshooting</a></li>
                     <li><a href="#bonus">Bonus Challenges</a></li>
                     <li><a href="#resources">Resources & Next Steps</a></li>
                 </ul>
@@ -595,7 +596,9 @@
                     <button class="copy-btn" onclick="copyPrompt(this)">Copy</button>
                     <pre>Agent, Clone https://bitbucket.org/coder-contrib/memory-card-ai-demo.git to /tmp</pre>
                 </div>
+            </section>
 
+           <section id="trbl">
                 <h3>Troubleshooting Quick Reference</h3>
 
                 <h4>AI Assistant Not Responding:</h4>
