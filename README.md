@@ -721,21 +721,6 @@ Please implement it following the same quality standards.</pre>
                     <li>Workshop Repository: <a href="https://github.com/coder-contrib/memory-card-ai-demo" target="_blank">https://github.com/coder-contrib/memory-card-ai-demo</a></li>
                 </ul>
             </section>
-
-            <section id="notes">
-                <h2>Notes Section</h2>
-                <div class="info-box">
-                    <p><em>Use this space for your own notes during the workshop:</em></p>
-                    <ul style="margin-top: 10px;">
-                        <li><strong>Issue Selected:</strong> #___</li>
-                        <li><strong>Branch Name:</strong></li>
-                        <li><strong>Challenges Faced:</strong></li>
-                        <li><strong>Solutions Found:</strong></li>
-                        <li><strong>Ideas for Improvement:</strong></li>
-                    </ul>
-                </div>
-            </section>
-
             <div style="text-align: center; padding: 40px 0; border-top: 2px solid #eee; margin-top: 40px;">
                 <h3>Thank you for participating! 🚀</h3>
                 <p style="font-size: 1.1em; color: #666;">Remember, the AI agents are here to augment your development, not replace your creativity. Happy coding!</p>
