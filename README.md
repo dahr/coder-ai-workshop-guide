@@ -13,17 +13,17 @@
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             line-height: 1.6;
-            color: #ffffff;
-            background: #090B0B;
+            color: #090B0B;
+            background: #F8F2F1;
             padding: 20px;
         }
 
         .container {
             max-width: 1000px;
             margin: 0 auto;
-            background: #18171A;
+            background: #ffffff;
             border-radius: 12px;
-            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+            box-shadow: 0 20px 60px rgba(9,11,11,0.1);
             overflow: hidden;
             border: 1px solid #2F2D33;
         }
@@ -33,7 +33,7 @@
             color: #090B0B;
             padding: 40px 30px;
             text-align: center;
-            border-bottom: 4px solid #BC7CFF;
+            border-bottom: 4px solid #1D4D7D;
         }
 
         .header-logo {
@@ -55,27 +55,27 @@
 
         .content {
             padding: 40px 30px;
-            color: #ffffff;
+            color: #090B0B;
         }
 
         h2 {
-            color: #BC7CFF;
+            color: #1D4D7D;
             margin-top: 40px;
             margin-bottom: 20px;
             font-size: 1.8em;
-            border-bottom: 3px solid #BC7CFF;
+            border-bottom: 3px solid #1D4D7D;
             padding-bottom: 10px;
         }
 
         h3 {
-            color: #F08DFF;
+            color: #1D4D7D;
             margin-top: 30px;
             margin-bottom: 15px;
             font-size: 1.4em;
         }
 
         h4 {
-            color: #ffffff;
+            color: #090B0B;
             margin-top: 20px;
             margin-bottom: 10px;
             font-size: 1.1em;
@@ -83,7 +83,7 @@
 
         p, li {
             margin-bottom: 10px;
-            color: #F8F2F1;
+            color: #2F2D33;
         }
 
         ul, ol {
@@ -92,8 +92,8 @@
         }
 
         .prompt-box {
-            background: #2F2D33;
-            border-left: 4px solid #BC7CFF;
+            background: #F8F2F1;
+            border-left: 4px solid #1D4D7D;
             padding: 20px;
             margin: 20px 0;
             border-radius: 6px;
@@ -101,7 +101,7 @@
         }
 
         .prompt-box pre {
-            background: #090B0B;
+            background: #18171A;
             color: #F8F2F1;
             padding: 15px;
             border-radius: 6px;
@@ -115,8 +115,8 @@
             position: absolute;
             top: 10px;
             right: 10px;
-            background: #BC7CFF;
-            color: #090B0B;
+            background: #1D4D7D;
+            color: #ffffff;
             border: none;
             padding: 8px 16px;
             border-radius: 6px;
@@ -127,7 +127,7 @@
         }
 
         .copy-btn:hover {
-            background: #F08DFF;
+            background: #005C6A;
         }
 
         .copy-btn.copied {
@@ -136,30 +136,30 @@
         }
 
         .info-box {
-            background: #2F2D33;
-            border-left: 4px solid #BC7CFF;
+            background: #F8F2F1;
+            border-left: 4px solid #1D4D7D;
             padding: 15px;
             margin: 20px 0;
             border-radius: 6px;
-            color: #F8F2F1;
+            color: #2F2D33;
         }
 
         .warning-box {
-            background: #2F2D33;
+            background: #F8F2F1;
             border-left: 4px solid #FF8067;
             padding: 15px;
             margin: 20px 0;
             border-radius: 6px;
-            color: #F8F2F1;
+            color: #2F2D33;
         }
 
         .success-box {
-            background: #2F2D33;
+            background: #F8F2F1;
             border-left: 4px solid #48bb78;
             padding: 15px;
             margin: 20px 0;
             border-radius: 6px;
-            color: #F8F2F1;
+            color: #2F2D33;
         }
 
         table {
@@ -172,12 +172,12 @@
             border: 1px solid #2F2D33;
             padding: 12px;
             text-align: left;
-            color: #F8F2F1;
+            color: #090B0B;
         }
 
         th {
-            background: #BC7CFF;
-            color: #090B0B;
+            background: #1D4D7D;
+            color: #ffffff;
             font-weight: 600;
         }
 
@@ -191,17 +191,17 @@
 
         .beginner {
             background: #48bb78;
-            color: #090B0B;
+            color: #ffffff;
         }
 
         .intermediate {
             background: #FF8067;
-            color: #090B0B;
+            color: #ffffff;
         }
 
         .advanced {
-            background: #F08DFF;
-            color: #090B0B;
+            background: #1D4D7D;
+            color: #ffffff;
         }
 
         .checklist {
@@ -212,7 +212,7 @@
         .checklist li {
             padding-left: 30px;
             position: relative;
-            color: #F8F2F1;
+            color: #2F2D33;
         }
 
         .checklist li:before {
@@ -220,31 +220,31 @@
             position: absolute;
             left: 0;
             font-size: 1.2em;
-            color: #BC7CFF;
+            color: #1D4D7D;
         }
 
         a {
-            color: #BC7CFF;
+            color: #1D4D7D;
             text-decoration: none;
             font-weight: 500;
         }
 
         a:hover {
             text-decoration: underline;
-            color: #F08DFF;
+            color: #005C6A;
         }
 
         .nav-toc {
-            background: #2F2D33;
+            background: #F8F2F1;
             padding: 20px;
             border-radius: 8px;
             margin-bottom: 30px;
-            border: 1px solid #BC7CFF;
+            border: 2px solid #1D4D7D;
         }
 
         .nav-toc h3 {
             margin-top: 0;
-            color: #BC7CFF;
+            color: #1D4D7D;
         }
 
         .nav-toc ul {
@@ -252,11 +252,11 @@
         }
 
         .nav-toc a {
-            color: #F8F2F1;
+            color: #2F2D33;
         }
 
         .nav-toc a:hover {
-            color: #BC7CFF;
+            color: #1D4D7D;
         }
 
         @media (max-width: 768px) {
@@ -281,8 +281,8 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="https://coder.com/brand/images/logo/sections/0/content/1/value/images/0/image.svg" alt="Coder" class="header-logo">
-            <h1>Coder AI Workshop Guide</h1>
+            <img src="data:image/png;base64,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" alt="Coder" class="header-logo">
+            <h1>AI Workshop Guide</h1>
             <p>Enterprise-Ready AI-Assisted Development with Secure Boundaries</p>
         </div>
 
@@ -297,6 +297,7 @@
                     <li><a href="#part3">Part 3: Working with Agent Boundaries</a></li>
                     <li><a href="#part4">Part 4: Testing Your Implementation</a></li>
                     <li><a href="#part5">Part 5: Agent Boundary Testing</a></li>
+                    <li><a href="#troubleshooting">Troubleshooting Quick Reference</a></li>
                     <li><a href="#bonus">Bonus Challenges</a></li>
                     <li><a href="#resources">Resources & Next Steps</a></li>
                 </ul>
@@ -626,8 +627,12 @@
                     <button class="copy-btn" onclick="copyPrompt(this)">Copy</button>
                     <pre>Agent, Clone https://bitbucket.org/coder-contrib/memory-card-ai-demo.git to /tmp</pre>
                 </div>
+            </section>
 
-                <h3>Troubleshooting Quick Reference</h3>
+            <section id="troubleshooting">
+                <h2>Troubleshooting Quick Reference</h2>
+
+                <h3>Common Issues and Solutions</h3>
 
                 <h4>AI Assistant Not Responding:</h4>
                 <div class="prompt-box">
