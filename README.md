@@ -34,6 +34,8 @@
             padding: 40px 30px;
             text-align: center;
             border-bottom: 4px solid #1D4D7D;
+            width:432px;
+            height:66.24px
         }
 
         .header-logo {
