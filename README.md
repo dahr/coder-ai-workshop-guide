@@ -40,8 +40,8 @@
             max-width: 250px;
             height: auto;
             margin-bottom: 20px;
-            width:140.16px;
-            height:21.12px
+            width:172.8px;
+            height:25.92px
         }
 
         .header h1 {
