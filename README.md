@@ -41,7 +41,7 @@
             height: auto;
             margin-bottom: 20px;
             width:172.8px;
-            height:25.92px
+            height:25.92px;
         }
 
         .header h1 {
