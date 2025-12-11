@@ -283,7 +283,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="https://github.com/dahr/coder-ai-workshop-guide/blob/main/Logo-black.png?raw=true" alt="Coder" class="header-logo">
+            <img src="https://raw.githubusercontent.com/dahr/coder-ai-workshop-guide/50ee40682f6b3f76649159154aff17b2f3bf724e/Logo-black.png" alt="Coder" class="header-logo">
             <h1>AI Workshop Guide</h1>
             <p>Enterprise-Ready AI-Assisted Development with Secure Boundaries</p>
         </div>
